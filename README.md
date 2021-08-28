@@ -36,23 +36,32 @@ It gets activated as soon as a new lead is created in Sheet2.
 
 ### 4. Sheet2
 
-It has 4 Worksheets:
+It has 5 Worksheets:
 
   #### 1. Sheet1: This is the sheet where all the numbers and names sent from script1
+  https://docs.google.com/spreadsheets/d/1Wmz5ScAomxf-cOK-mYT-uXC4BVtUa5NjsW4FZO8ciFA/edit#gid=0
   
   ![image](https://user-images.githubusercontent.com/40603380/131167161-1f4ef759-39f0-4c62-afed-1ac9c73a3ad4.png)
   
   #### 2. AutoMessage1: Messages that will be sent automatically to newly added numbers
+  https://docs.google.com/spreadsheets/d/1Wmz5ScAomxf-cOK-mYT-uXC4BVtUa5NjsW4FZO8ciFA/edit#gid=1680844514
   
   ![image](https://user-images.githubusercontent.com/40603380/131168151-699713bb-034b-403d-97d9-2eeba77c9731.png)
   
   #### 3. AutoMessage2: Messages that will be sent automatically after 3 days if a user hasn’t replied back
+  https://docs.google.com/spreadsheets/d/1Wmz5ScAomxf-cOK-mYT-uXC4BVtUa5NjsW4FZO8ciFA/edit#gid=2098493006
   
   ![image](https://user-images.githubusercontent.com/40603380/131168185-b0d214ce-8759-4a07-93a1-616f3bb3fa1c.png)
   
   #### 4. ManualMessage: Manual messages that will be sent to the users from AppSheet
+  https://docs.google.com/spreadsheets/d/1Wmz5ScAomxf-cOK-mYT-uXC4BVtUa5NjsW4FZO8ciFA/edit#gid=1812410192
   
   ![image](https://user-images.githubusercontent.com/40603380/131168213-95578b7e-a141-47bf-9780-ad74b9511872.png)
+  
+  #### 5. FollowupAfter3daysOfManualMessage: Follow up message to be sent automatically after 3 days of sending the manual message (will be sent only if the user hasn't replied back)
+  https://docs.google.com/spreadsheets/d/1Wmz5ScAomxf-cOK-mYT-uXC4BVtUa5NjsW4FZO8ciFA/edit#gid=1673798942
+  
+  
 
 ### 5. AWS S3
 It is used to store the Images, Videos & documents we want to send on whatsapp.
