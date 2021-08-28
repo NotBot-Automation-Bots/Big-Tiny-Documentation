@@ -17,18 +17,12 @@
 ### 1. Script 1
 - It syncs the data from gmail to sheet 1 using GCP
 - It also sends Name & phone number to Sheet2 to trigger Script2.
-- Hosted on Heroku
-  - Email address: `appsheet54@gmail.com`
-  - Password: https://docs.google.com/document/d/1yTlxOk9d_waTIBddktER0lM4Q22Pxz8kGKdOU3gcixo/edit
 
 ### 2. Sheet1
 All the new leads from Script 1 are synced to this sheet. 
 
 ### 3. Script 2
 - It gets activated as soon as a new lead is created in Sheet2.
-- Hosted on Heroku
-  - Email address: `ask@tinyassets.sg`
-  - Password: https://docs.google.com/document/d/1_DM79bplc0E-ny5AQxT-2gbHriEHzdnNqGv9qi5b40s/edit
 
 #### Working:
 
