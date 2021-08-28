@@ -15,8 +15,10 @@
 9. Gmail
 
 ### 1. Script 1
-It syncs the data from gmail to sheet 1 using GCP
-It also sends Name & phone number to Sheet2 to trigger Script2.
+- It syncs the data from gmail to sheet 1 using GCP
+- It also sends Name & phone number to Sheet2 to trigger Script2.
+- Hosted on Heroku
+  - 
 
 ### 2. Sheet1
 All the new leads from Script 1 are synced to this sheet. 
