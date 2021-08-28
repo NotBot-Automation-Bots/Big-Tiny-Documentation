@@ -43,6 +43,13 @@ It has 5 Worksheets:
   
   ![image](https://user-images.githubusercontent.com/40603380/131167161-1f4ef759-39f0-4c62-afed-1ac9c73a3ad4.png)
   
+  
+
+https://user-images.githubusercontent.com/40603380/131207312-82013c89-a699-456a-82d8-f234e995324e.mp4
+
+
+
+  
   #### 2. AutoMessage1: Messages that will be sent automatically to newly added numbers
   https://docs.google.com/spreadsheets/d/1Wmz5ScAomxf-cOK-mYT-uXC4BVtUa5NjsW4FZO8ciFA/edit#gid=1680844514
   
